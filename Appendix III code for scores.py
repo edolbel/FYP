@@ -1,4 +1,8 @@
 #%%
+'''
+This code creates the scores for the data by using a linear regression. Then using the weightings to calculate the final scores
+'''
+#%%
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
