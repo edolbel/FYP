@@ -1,4 +1,4 @@
-###Question 1: 
+###Question 1: ###
 It is difficult to predict with certainty what the largest breakthroughs in physics in 10 years will be, but some possible areas of progress include:
 - Quantum computing: Quantum computers have the potential to revolutionize many fields, including physics, by allowing us to solve problems that are intractable for classical computers. In the next 10 years, we can expect to see significant advances in quantum computing hardware and software, as well as new applications in physics, such as simulating complex quantum systems and developing new materials with exotic properties.
 - Gravitational wave astronomy: Gravitational waves are ripples in the fabric of spacetime that are caused by the most energetic events in the universe, such as black hole mergers and supernovae. In the next 10 years, we can expect to see new gravitational wave detectors come online, which will allow us to study these events in more detail and learn more about the fundamental nature of gravity.
