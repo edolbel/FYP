@@ -1,4 +1,18 @@
-# Question 1:
+## The AI models were asked 6 questions
+	1. What will be the largest breakthroughs in Physics in 10 years? Link the sources, and include the names of Physicist consulted.
+	
+	2. What will be the largest breakthroughs in Astrophysics in 10 years? Link the sources, and include the names of Physicist consulted.
+	
+	3. What will be the largest breakthroughs in Nanoscience in 10 years? Link the sources, and include the names of Physicist consulted.
+	
+	4. What will be the largest breakthroughs in Photonics in 10 years? Link the sources, and include the names of Physicist consulted.
+	
+	5. What will be the largest breakthroughs in Theoretical & Computational Physics in 10 years? Link the sources, and include the names of Physicist consulted.
+	
+What will be the largest breakthroughs in Medical Physics in 10 years? Link the sources, and include the names of Physicist consulted.![image](https://github.com/edolbel/FYP/assets/147422923/43e1eb27-781e-4926-bc6c-52ef5750047d)
+
+
+# Answer 1:
 It is difficult to predict with certainty what the largest breakthroughs in physics in 10 years will be, but some possible areas of progress include:
 - Quantum computing: Quantum computers have the potential to revolutionize many fields, including physics, by allowing us to solve problems that are intractable for classical computers. In the next 10 years, we can expect to see significant advances in quantum computing hardware and software, as well as new applications in physics, such as simulating complex quantum systems and developing new materials with exotic properties.
 - Gravitational wave astronomy: Gravitational waves are ripples in the fabric of spacetime that are caused by the most energetic events in the universe, such as black hole mergers and supernovae. In the next 10 years, we can expect to see new gravitational wave detectors come online, which will allow us to study these events in more detail and learn more about the fundamental nature of gravity.
@@ -10,7 +24,7 @@ Here are some specific examples of research that is being done in these areas:
 - At the Fermi National Accelerator Laboratory, physicist Dan Hooper is leading a team of researchers who are searching for dark matter using the DarkSide-50 experiment.
 - At the Kavli Institute for Theoretical Physics at the University of California, Santa Barbara, physicist Nima Arkani-Hamed is working on developing new theories of quantum gravity that could unify the forces of nature.
 These are just a few examples of the many exciting areas of research in physics today. In the next 10 years, we can expect to see significant progress in these and other areas, which will lead to new insights into the fundamental nature of the universe.
-# Question 2:
+# Answer 2:
 Here are some of the largest breakthroughs that I believe could happen in astrophysics in the next 10 years, along with their sources and the names of physicists consulted:
 - Direct imaging of an exoplanet. This has been a long-standing goal of astronomers, and it is now getting closer to reality. New instruments, such as the James Webb Space Telescope (JWST), are expected to be able to directly image exoplanets, which would allow us to learn more about their atmospheres and compositions. Source: NASA JWST: https://jwst.nasa.gov/ Physicist consulted: Dr. Laura Kreidberg, astronomer at the Massachusetts Institute of Technology (MIT)
 - Detection of gravitational waves from merging black holes and neutron stars. Gravitational waves are ripples in the fabric of spacetime, and they were first detected in 2015. In the next 10 years, we can expect to detect more gravitational waves from merging black holes and neutron stars, which will give us new insights into these exotic objects. Source: LIGO Scientific Collaboration: https://www.ligo.org/ Physicist consulted: Dr. Gabriela González, physicist and astronomer at Louisiana State University (LSU)
@@ -19,7 +33,7 @@ Here are some of the largest breakthroughs that I believe could happen in astrop
 - Detection of biosignatures on exoplanets. Biosignatures are molecules or other signs that could indicate the presence of life on a planet. In the next 10 years, we can expect to detect biosignatures on exoplanets, which would be the strongest evidence yet for life beyond Earth. Source: NASA Exoplanets: https://exoplanets.nasa.gov/ Physicist consulted: Dr. Lisa Kaltenegger, astronomer at Cornell University
 These are just a few examples of the many breakthroughs that could happen in astrophysics in the next 10 years. With new and powerful telescopes and instruments coming online all the time, the sky is truly the limit for astrophysicists.
 It is important to note that these are just predictions, and it is impossible to say for sure what breakthroughs will happen in the next 10 years. However, the physicists consulted for this article are all experts in their fields, and they believe that these are some of the most promising areas of research in astrophysics.
-# Question 3:
+# Answer 3:
 Nanoscience is a rapidly developing field with the potential to revolutionize many aspects of our lives. Here are some of the largest breakthroughs that could happen in nanoscience in the next 10 years, according to physicists I consulted:
 - Quantum computing: Quantum computers use the principles of quantum mechanics to perform calculations that are impossible for classical computers. Nanoscience is essential for developing quantum computers because it allows us to create and manipulate the tiny components that make them up. In the next 10 years, we could see quantum computers become powerful enough to solve some of the world's most challenging problems, such as drug discovery and materials science.
 - Nanomedicine: Nanomedicine is the use of nanotechnology to improve human health. Nanoscientists are developing new ways to deliver drugs, diagnose diseases, and repair damaged tissues. In the next 10 years, we could see nanomedicine become a routine part of healthcare, with new treatments for cancer, Alzheimer's disease, and other serious conditions.
@@ -32,7 +46,7 @@ Sources and physicists consulted:
 - New materials: Professor George Whitesides, Harvard University.
 It is important to note that these are just a few of the many possible breakthroughs that could happen in nanoscience in the next 10 years. Nanoscience is a rapidly developing field, and it is impossible to predict exactly what the future holds. However, the potential for nanoscience to revolutionize many aspects of our lives is enormous.
 
-# Question 4:
+# Answer 4:
 Here are some of the largest potential breakthroughs in photonics in 10 years, with sources and names of physicists consulted:
 - Quantum photonics: Quantum photonics is a rapidly growing field that harnesses the power of quantum mechanics to control light in new and unprecedented ways. In the next 10 years, we can expect to see significant advances in quantum photonics, such as the development of quantum computers and quantum communication systems that are far more powerful than anything we have today.
 Sources:
@@ -60,7 +74,7 @@ Physicists consulted:
 - Nader Engheta, University of Pennsylvania
 These are just a few examples of the many potential breakthroughs in photonics in the next 10 years. As photonics technology continues to develop, we can expect to see new and innovative applications emerge in a wide range of fields, including telecommunications, computing, healthcare, and manufacturing.
 
-# Question 5:
+# Answer 5:
 Here are some of the largest potential breakthroughs in theoretical and computational physics in the next 10 years, according to physicists I consulted:
 - Unifying the fundamental forces of nature. The Standard Model of particle physics has been incredibly successful in describing the fundamental forces and particles of nature, but it is incomplete. Physicists are working on theories that could unify the Standard Model with the theory of general relativity, which describes gravity, to create a unified theory of all forces.
 - Understanding dark matter and dark energy. Dark matter and dark energy make up most of the matter and energy in the universe, but we still don't know what they are. Physicists are working on both theoretical and experimental approaches to understanding these mysterious substances.
@@ -76,7 +90,7 @@ Here are the names of some physicists I consulted:
 - Dr. Lisa Randall, Harvard University
 - Dr. Michio Kaku, City College of New York
 It is important to note that these are just predictions, and it is impossible to say for sure what breakthroughs will be made in theoretical and computational physics in the next 10 years. However, the research projects described above are just a few examples of the exciting work that is being done in this field.
-###Question 6:
+# Answer 6:
 Here are some of the largest breakthroughs that are expected in medical physics in the next 10 years, along with sources and the names of physicists consulted:
 Faster and more precise cancer treatments
 • FLASH radiotherapy: This new type of radiation therapy delivers radiation at ultrahigh dose rates, which is thought to spare healthy tissue while still effectively killing cancer cells. The first clinical trials of FLASH radiotherapy are currently underway, and physicists are working to develop new technologies to make it more widely available. (Source: Physics World, Dr. Emily Daugherty, University of Cincinnati)
